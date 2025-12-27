@@ -14,10 +14,16 @@ Diese Liste soll dem entgegen stehen:
 - Der Song steht im Mittelpunkt
 - Die Einschätzung erfolgt durch die Hörer (da GitHub bei der Anmeldung entsprechend prüft)
 - virale Effekte werden abgeschwächt (hat jemand eine Idee, wie man das ganz vermeiden könnte?)
+- jeder kann seine Lieblingssongs vorschlagen
 
 ## Wie mitmachen?
-Einfach im Forum (Issues) neue Songs posten, die gefallen bzw. bestehende Songs voten.
-Die mit den meisten Einträgen / Votes wandern dann nach oben.
-Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben.
+Einfach im Forum (Issues) Lieblingssongs mit Link posten bzw. bestehende Songs voten.
+Die mit den meisten Einträgen / Votes wandern dann automatisch nach oben. Die Top-10 werden dann regelmäßig hier gelistet.
+
+Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben. Du bist gerne eingeladen, diese Songs selbst zu bewerten oder eigene vorzuschlagen.
+
+## Regeln 
+Es sind nur KI generierte Songs zugelassen.
+Die Songs, die du postest müssen dir gefallen :-)
 
 ## Charts 
