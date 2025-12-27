@@ -29,4 +29,4 @@ Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben. Du bis
 
 ## Charts - Hot 100 Germany
 
-1. [Ain't Got a Nickel Ain't Got a Dime] (https://suno.com/s/14QuI6TlH3qJcVCG) 
+1. [Ain't Got a Nickel Ain't Got a Dime](https://suno.com/s/14QuI6TlH3qJcVCG) 
