@@ -12,4 +12,10 @@ erstellt wurden.
 Diese Liste soll dem entgegen stehen:
 
 - Der Song steht im Mittelpunkt
-- Die Einschätzung erfolgt ausschließlich durch menschliche Hörer 
+- Die Einschätzung erfolgt durch menschliche Hörer (da GitHub bei der Anmeldung entsprechend prüft)
+
+## Wie mitmachen?
+Einfach im Forum (Issues) neue Songs posten, die gefallen bzw. bestehende Songs voten.
+Die mit den meisten Einträgen / Votes wandern dann nach oben.
+
+## Charts 
