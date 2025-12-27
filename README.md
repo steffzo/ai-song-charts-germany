@@ -33,3 +33,4 @@ Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben. Du bis
 
 1. [Ain't Got a Nickel Ain't Got a Dime](https://suno.com/s/14QuI6TlH3qJcVCG) [Soul]
 2. [Wildfire](https://suno.com/s/0TjoK1Umgyg3bxEs) [Dance]
+3. [Egomaniac](https://suno.com/s/awpH23ehnLYpj5PW)[Dance]
